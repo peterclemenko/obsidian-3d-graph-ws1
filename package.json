@@ -43,7 +43,7 @@
     "obsidian": "latest",
     "prettier": "^2.8.8",
     "semver": "^7.5.4",
-    "tslib": "2.4.0",
+    "tslib": "2.8.1",
     "typescript": "^5.0.5"
   },
   "dependencies": {
